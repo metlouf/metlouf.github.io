@@ -8,5 +8,35 @@
     <language>en</language>
     <copyright>© 2024 Mohamed Ali SRIR</copyright>
     <lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Convex optimization for binary tree-based transport networks (DGMM24)</title>
+      <link>//localhost:1313/papers/dgmm24/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/papers/dgmm24/</guid>
+      <description>Authors : # Raoul Sallé de Chou(1,2), Mohamed Ali Srir(1) , Laurent Najman(3) , Nicolas Passat(4) , Hugues Talbot (5,3) , Irène Vignon-Clementel(1)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/papers/dgmm24/featured.png" />
+    </item>
+    
+    <item>
+      <title>INRIA Internship Paper</title>
+      <link>//localhost:1313/papers/inria-internship/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/papers/inria-internship/</guid>
+      <description>Paper currently under Review</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/papers/inria-internship/featured.png" />
+    </item>
+    
+    <item>
+      <title>My journey</title>
+      <link>//localhost:1313/journey/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/journey/</guid>
+      <description>Intro # In this page, I want a talk about my journey, note that I am cherry-picking information, I am mostly talking about things I succeeded in but it is important to know that I failed in a lot of things (I may make a CV of failure as I saw in another website, someday).</description>
+      
+    </item>
+    
   </channel>
 </rss>
