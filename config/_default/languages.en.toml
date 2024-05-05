@@ -17,7 +17,7 @@ title = "Mohamed Ali SRIR"
   name = "Mohamed Ali SRIR"
   image = "img/pdp.jpg"
   links = [
-    { email = "mohamed.srir@telecom-paris.fr" },
+    { email = "mailto:mohamed.srir@telecom-paris.fr" },
     { github = "https://github.com/metlouf" }
   ]
 
