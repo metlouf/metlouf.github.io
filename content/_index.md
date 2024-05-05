@@ -1,8 +1,8 @@
 ---
-title: "Intro"
+title: "Mohamed Ali SRIR"
 date: 2024-05-05
 draft: false
-description: "Intro"
+description: "Portfolio"
 layout : custom
 ---
 
