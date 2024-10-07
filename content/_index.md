@@ -15,7 +15,7 @@ layout : custom
 محمد علي سرير
 Mohamed Ali SRIR
 {{< /typeit >}}
-**Master student passionate about AI and multimodality, I love playing with different data structures especially images, graphs, meshes and recently NeRFs and Gaussian Splatting. Making beautiful and/or funny things with Math and Computer Science is my main quest.**
+**Master student passionate about AI and multimodality. I am deeply interested in the notion of "Truth" (what is correct ?), and I hope I can use/deepen my knowledge in Math and Computer Science to get closer to this notion (globally and in specific fields).**
 <div class="flex justify-center">
   <div class="flex flex-wrap justify-center">
     {{< button href="/journey" >}}About me{{< /button >}}
