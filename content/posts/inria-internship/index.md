@@ -1,10 +1,10 @@
 ---
-title: "INRIA Internship Paper"
+title: "INRIA Internship"
 date: 2024-05-05
-draft: false
-description: "INRIA Internship Paper"
+draft: true
+description: "INRIA Internship"
 categories: ["paper"]
 tags : ["AI","GNN","Biomedical"]
-summary : Paper under Review
+summary : 
 ---
 # Under Review
