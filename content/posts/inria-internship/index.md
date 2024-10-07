@@ -5,6 +5,6 @@ draft: false
 description: "INRIA Internship Paper"
 categories: ["paper"]
 tags : ["AI","GNN","Biomedical"]
-summary : Paper currently under Review
+summary : Paper under Review
 ---
 # Under Review
