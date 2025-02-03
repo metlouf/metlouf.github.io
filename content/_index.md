@@ -15,7 +15,7 @@ layout : custom
 محمد علي سرير
 Mohamed Ali SRIR
 {{< /typeit >}}
-**Master student passionate about AI and multimodality. I am deeply interested in the notion of "Truth" (what is correct ?), and I hope I can use/deepen my knowledge in Math and Computer Science to get closer to this notion (globally and in specific fields).**
+**Master student passionate about AI (especially vision) and open-source. I hope I can use/deepen my knowledge in Math and Computer Science to do useful and beautiful things.**
 <div class="flex justify-center">
   <div class="flex flex-wrap justify-center">
     {{< button href="/journey" >}}About me{{< /button >}}

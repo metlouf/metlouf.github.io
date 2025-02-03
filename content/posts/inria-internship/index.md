@@ -1,10 +1,10 @@
 ---
 title: "INRIA Internship"
-date: 2024-05-05
-draft: true
-description: "INRIA Internship"
-categories: ["paper"]
+date: 2024-01-05
+draft: False
+description: "My first experience, (first wins and fail in research world)"
+categories: ["random"]
 tags : ["AI","GNN","Biomedical"]
-summary : 
+summary : "My first experience, (first wins and fail in research world)"
 ---
-# Under Review
+# To develop

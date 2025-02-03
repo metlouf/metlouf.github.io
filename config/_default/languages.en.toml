@@ -9,7 +9,7 @@ title = "Mohamed Ali SRIR"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/berad.png"
-  # secondaryLogo = "img/pdp.jpg"
+  # secondaryLogo = "img/berad.png"
   description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
@@ -18,7 +18,8 @@ title = "Mohamed Ali SRIR"
   image = "img/pdp.jpg"
   links = [
     { email = "mailto:mohamed.srir@telecom-paris.fr" },
-    { github = "https://github.com/metlouf" }
+    { github = "https://github.com/metlouf" },
+    { scholar = "https://scholar.google.com/citations?user=HlbHseYAAAAJ&hl" },
   ]
 
 

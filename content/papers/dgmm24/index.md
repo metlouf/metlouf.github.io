@@ -4,6 +4,7 @@ date: 2024-05-05
 draft: false
 description: "First Paper"
 tags: ["Graph Optimization", "Binary Tree", "DGMM24"]
+summary : "Authors : Raoul Sallé de Chou(1,2), Mohamed Ali Srir(1), Laurent Najman(3), Nicolas Passat(4), Hugues Talbot (5,3), Irène Vignon-Clementel(1)"
 ---
 # Authors :
 Raoul Sallé de Chou(1,2), Mohamed Ali Srir(1) , Laurent Najman(3) , Nicolas Passat(4) , Hugues Talbot (5,3) , Irène Vignon-Clementel(1)
